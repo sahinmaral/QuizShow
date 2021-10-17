@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.deps.json
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.runtimeconfig.json
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.Entities.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\bin\Debug\netcoreapp3.1\QuizShow.Entities.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.AssemblyInfo.cs
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.genruntimeconfig.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.DataAccess\obj\Debug\netcoreapp3.1\QuizShow.DataAccess.csproj.CopyComplete

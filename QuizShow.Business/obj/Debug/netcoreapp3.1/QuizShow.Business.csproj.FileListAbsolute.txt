@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.AssemblyInfo.cs
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.Business.deps.json
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.Business.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.Business.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.Entities.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.DataAccess.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\bin\Debug\netcoreapp3.1\QuizShow.Entities.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.csproj.CopyComplete
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Business\obj\Debug\netcoreapp3.1\QuizShow.Business.pdb

@@ -1,0 +1,10 @@
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\bin\Debug\netcoreapp3.1\QuizShow.Entities.deps.json
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\bin\Debug\netcoreapp3.1\QuizShow.Entities.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\bin\Debug\netcoreapp3.1\QuizShow.Entities.pdb
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.AssemblyInfo.cs
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.dll
+C:\Users\sahin\Desktop\QuizShow\QuizShow.Entities\obj\Debug\netcoreapp3.1\QuizShow.Entities.pdb
